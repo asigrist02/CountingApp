@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountingApp</string>
+    <string name="starting_count">0</string>
+    <string name="button_txt">TAP</string>
+</resources>
